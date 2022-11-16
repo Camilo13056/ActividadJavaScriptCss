@@ -1,2 +1,2 @@
 # ActividadJavaScriptCss
-Actividad asicnada por Andres, Desarrollada (Piedra, papel o tijeras)
+Actividad asignada por Andres, Desarrollada (Piedra, papel o tijeras)
