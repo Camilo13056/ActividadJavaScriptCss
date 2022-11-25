@@ -1,0 +1,51 @@
+* {
+  margin: 10;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  font-size: 30px;
+  background-color: rgb(254, 222, 180);
+}
+
+p {
+  font-size: 20px;
+}
+
+.opciones .img {
+  display: flex;
+  justify-content: space-around;
+}
+
+.opciones #piedra {
+  width: 200px;
+  height: 200px;
+
+  cursor: pointer;
+}
+
+.opciones #papel {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+
+.opciones #tijera {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+#resultado {
+  display: flex;
+}
+#resultado > img {
+  width: 200px;
+  height: 200px;
+}
